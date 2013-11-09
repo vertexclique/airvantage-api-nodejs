@@ -20,5 +20,5 @@
         "type" : "git",
         "url" : "git://github.com/vertexclique/airvantage-api-nodejs.git"
   },
-  "bugs": {"url": "http://github.com/vertexclique/airvantage-api-nodejs/issues"},
+  "bugs": {"url": "http://github.com/vertexclique/airvantage-api-nodejs/issues"}
 }
